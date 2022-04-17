@@ -1,0 +1,39 @@
+.video {
+    text-align: center;
+  }
+
+  .top {
+    text-decoration: none;
+    padding: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+    background: #E4AC65;
+    border-radius: 100px;
+  }
+
+  .title{
+    font-family: sans-serif;
+    color: #E6A756;
+    align-items: center;
+  }
+
+  .imageedit{
+    text-align: center;
+    width: 150px;
+  }
+
+  .changetextcolor{
+    color: #172036;
+  }
+
+  .changeheadingfont{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .underline {
+    text-decoration: underline;
+  }
+
+  .changeparafont{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
